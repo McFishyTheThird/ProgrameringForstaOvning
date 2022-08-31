@@ -16,5 +16,5 @@ part = Console.ReadLine();
 Console.WriteLine ($"Earlier this morning {name} unfortunatly got bitten by a {animal} and lost his {part}."); 
 Console.WriteLine ($"He has been diagnosed with the horrific {animal} disease and is now slowly transforming into a {animal}."); 
 Console.WriteLine ($"He unfortunatly only has {number} minutes left until the transformation is complete and he will be served at the ");
-Console.WriteLine ($"Kentucky Fried {animal}s.");
+Console.WriteLine ($"Kentucky Fried {animal}s.THE END");
 Console.ReadLine();
